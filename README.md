@@ -1,6 +1,8 @@
 # 🎨 Monet Style Transfer with CycleGAN
 This repository contains the solution for the Kaggle [I’m Something of a Painter Myself] competition.
 
+<img width="907" height="435" alt="Image" src="https://github.com/user-attachments/assets/1b46d71d-42c7-42d3-a92a-8bf9e20e8653" />
+
 ### 🏆 Achievement
 - **Ranked 2nd Global** on the leaderboard (Rolling Board).
 - Focused on optimizing CycleGAN loss functions and stabilization.
